@@ -1,0 +1,128 @@
+msgid "doc.archive.view"
+msgstr "Veizietė arkīva vėdo"
+
+# Inline download status message.
+msgid "media.download.complete"
+msgstr "Parsiuntėms bėngts."
+
+# Used in inline audio player metadata popup.
+msgid "audio.meta.artist"
+msgstr "Atlėkies"
+
+# Used in inline audio player metadata popup.
+msgid "audio.meta.genre"
+msgstr "Žanros"
+
+# Used in inline audio player metadata popup.
+msgid "audio.meta.date"
+msgstr "Data"
+
+# used as adjective, n is 8, 16, 24, 32, or 64
+#, c-format
+msgid "n.bit"
+msgstr "%d bitu"
+
+# Hertz, unit for frequency values
+msgid "hz"
+msgstr "Hz"
+
+#, c-format
+msgid "feeds.list.entrycount"
+msgid_plural "feeds.list.entrycount.n"
+msgstr[0] "ėš vėsa %z īrašos"
+msgstr[1] "ėš vėsa %z īrašo"
+msgstr[2] "ėš vėsa %z īrašā"
+msgstr[3] "ėš vėsa %z īrašu"
+
+#, c-format
+msgid "minutes.ago"
+msgid_plural "minutes.ago.n"
+msgstr[0] "prīš %d mėnotė"
+msgstr[1] "prīš %d mėnotė"
+msgstr[2] "prīš %d mėnotės"
+msgstr[3] "prīš %d mėnoťiu"
+
+#, c-format
+msgid "hours.ago"
+msgid_plural "hours.ago.n"
+msgstr[0] "prīš %d adīna"
+msgstr[1] "prīš %d adīnė"
+msgstr[2] "prīš %d adīnas"
+msgstr[3] "prīš %d adīnu"
+
+#, c-format
+msgid "days.ago"
+msgid_plural "days.ago.n"
+msgstr[0] "prīš %d dëna"
+msgstr[1] "prīš %d dënė"
+msgstr[2] "prīš %d dënas"
+msgstr[3] "prīš %d dënu"
+
+# Alt-text of the preformatted logo.
+msgid "about.logo"
+msgstr "ASCII dailė: žuodis „Lagrange“ stombio šrėfto"
+
+msgid "about.tagline"
+msgstr "Dailė Gemini naršīklė"
+
+msgid "about.version"
+msgstr "Versėjė"
+
+msgid "cancel"
+msgstr "Atšauktė"
+
+msgid "close"
+msgstr "Uždarītė"
+
+msgid "dlg.message.ok"
+msgstr "Tė̄stė"
+
+msgid "dlg.default"
+msgstr " Gerā "
+
+msgid "menu.title.file"
+msgstr "Fails"
+
+msgid "menu.title.edit"
+msgstr "Redagůtė"
+
+msgid "menu.title.help"
+msgstr "Pagelba"
+
+msgid "menu.split.horizontal"
+msgstr "Golstē"
+
+msgid "menu.split.vertical"
+msgstr "Statē"
+
+msgid "menu.openlocation"
+msgstr "Atvertė vëta…"
+
+msgid "menu.downloads"
+msgstr "Ruodītė atsėsiuntėmus"
+
+msgid "menu.find"
+msgstr "Ëškuotė poslapie"
+
+# Used on iOS. "Files" refers to Apple's iOS app where you can pick an iCloud folder.
+msgid "menu.save.files"
+msgstr "Ėšsauguotė failė"
+
+msgid "menu.save.downloads.open"
+msgstr "Ėšsauguotė atsisiuntėmūs ėr atvertė"
+
+msgid "menu.zoom.in"
+msgstr "Padėdintė"
+
+msgid "menu.zoom.out"
+msgstr "Somažintė"
+
+msgid "menu.zoom.reset"
+msgstr "Atstatītė priartėnėmus"
+
+msgid "macos.menu.find"
+msgstr "Ėškuotė"
+
+# Used on desktop operating systems. "Downloads" refers to the user's configured downloads directory.
+msgid "menu.save.downloads"
+msgstr "Ėšsauguotė atsėsiuntėmu papkie"

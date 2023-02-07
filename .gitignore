@@ -1,0 +1,16 @@
+.DS_Store
+*.user
+/build/
+build-*/
+/.vsbuild
+/.vscode
+/app
+*~
+/*.sublime-*
+*.orig
+
+# TODO: Maybe a submodule at some point?
+lib/sealcurses
+/.cache/
+/cmake-build-debug/
+/.idea/

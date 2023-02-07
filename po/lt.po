@@ -1,0 +1,103 @@
+msgid "doc.pre.nocaption"
+msgstr "Neformatuotas tekstas be aprašymo"
+
+# Link download progress message.
+msgid "doc.fetching"
+msgstr "Kraunama"
+
+#, c-format
+msgid "doc.archive"
+msgstr "%s yra suspaustas archyvas."
+
+msgid "doc.archive.view"
+msgstr "Peržiūrėti archyvo turinį"
+
+# Inline download status message.
+msgid "media.download.warnclose"
+msgstr "Parsiuntimas bus nutrauktas, jei uždarysite skirtuką."
+
+# Inline download status message.
+msgid "media.download.complete"
+msgstr "Parsiuntimas baigtas."
+
+# Used in inline audio player metadata popup.
+msgid "audio.meta.title"
+msgstr "Pavadinimas"
+
+# Used in inline audio player metadata popup.
+msgid "audio.meta.artist"
+msgstr "Atlikėjas"
+
+# Used in inline audio player metadata popup.
+msgid "audio.meta.genre"
+msgstr "Žanras"
+
+# Used in inline audio player metadata popup.
+msgid "audio.meta.date"
+msgstr "Data"
+
+# Hertz, unit for frequency values
+msgid "hz"
+msgstr "Hz"
+
+msgid "feeds.list.refreshtime.now"
+msgstr "Paskutinis atnaujinimas įvyko vos prieš akimirką."
+
+#, c-format
+msgid "feeds.list.refreshtime"
+msgstr "Paskutinis atnaujinimas įvyko %s."
+
+#, c-format
+msgid "minutes.ago"
+msgid_plural "minutes.ago.n"
+msgstr[0] "prieš %d minutę"
+msgstr[1] "prieš %d minutes"
+msgstr[2] "prieš %d minučių"
+
+#, c-format
+msgid "hours.ago"
+msgid_plural "hours.ago.n"
+msgstr[0] "prieš %d valandą"
+msgstr[1] "preš %d valandas"
+msgstr[2] "prieš %d valandų"
+
+#, c-format
+msgid "days.ago"
+msgid_plural "days.ago.n"
+msgstr[0] "prieš %d dieną"
+msgstr[1] "prieš %d dienas"
+msgstr[2] "prieš %d dienų"
+
+# Alt-text of the preformatted logo.
+msgid "about.logo"
+msgstr "ASCII menas: žodis „Lagrange“, kuriame naudojamas didelis šriftas"
+
+msgid "about.tagline"
+msgstr "Graži Gemini naršyklė"
+
+msgid "about.version"
+msgstr "Versija"
+
+msgid "cancel"
+msgstr "Atšaukti"
+
+msgid "close"
+msgstr "Uždaryti"
+
+msgid "dlg.message.ok"
+msgstr "Tęsti"
+
+msgid "dlg.default"
+msgstr " OK "
+
+msgid "menu.title.file"
+msgstr "Failas"
+
+msgid "menu.title.edit"
+msgstr "Redaguoti"
+
+msgid "menu.title.bookmarks"
+msgstr "Žymės"
+
+msgid "gempub.meta.license"
+msgstr "Licenzija"

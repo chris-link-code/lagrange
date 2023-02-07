@@ -1,0 +1,48 @@
+msgid "cancel"
+msgstr "Cancelar"
+
+msgid "about.version"
+msgstr "Versão"
+
+msgid "menu.newtab"
+msgstr "Nova aba"
+
+msgid "menu.title.help"
+msgstr "Ajuda"
+
+msgid "menu.title.edit"
+msgstr "Editar"
+
+msgid "menu.title.view"
+msgstr "Exibir"
+
+msgid "menu.closetab.other"
+msgstr "Fechar outras abas"
+
+msgid "menu.closetab.right"
+msgstr "Fechar abas para a direita"
+
+msgid "menu.title.bookmarks"
+msgstr "Favoritos"
+
+msgid "close"
+msgstr "Fechar"
+
+msgid "menu.closetab"
+msgstr "Fechar aba"
+
+msgid "menu.closetab.left"
+msgstr "Fechar abas para a esquerda"
+
+msgid "menu.title.file"
+msgstr "Arquivo"
+
+# Alt-text of the preformatted logo.
+msgid "about.logo"
+msgstr "Arte ASCII: a palavra \"Lagrange\" usando uma fonte larga"
+
+msgid "bookmark.delete"
+msgstr "Deletar favorito"
+
+msgid "dlg.translate.unavail"
+msgstr "Serviço indisponível"
