@@ -1,7 +1,10 @@
-find_program (ZIP_EXECUTABLE zip DOC "ZIP archiver")
-if (NOT ZIP_EXECUTABLE)
-    message (FATAL_ERROR "Please install 'zip' for packaging resources.")
-endif ()
+message("$ENV{ProgramFiles}\\7-Zip")
+
+#find_program (ZIP_EXECUTABLE zip DOC "ZIP archiver")
+#find_program (ZIP_EXECUTABLE zip PATHS "$ENV{ProgramFiles}\\7-Zip")
+#if (NOT ZIP_EXECUTABLE)
+#    message (FATAL_ERROR "Please install 'zip' for packaging resources.")
+#endif ()
 
 function (make_resources dst)
     list (REMOVE_AT ARGV 0)
